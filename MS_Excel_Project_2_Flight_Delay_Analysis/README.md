@@ -1,6 +1,6 @@
 # Flights Delay in USA Airports Analysis
-![](assets/Capture0.png.PNG)
-![](Images/dashboard.PNG)
+![](assets/Capture0.png)
+![](assets/dashboard.PNG)
 ## Introduction:
 The aim of this project was to __provide insights and hints for the CEO of startup airline by showing the potential delays the new airline may encounter in different airports__.
 The objective of this project was to __build self-service dynamic and interactive dashboard that shows the performance of airport in term of the metrics of managing flight delays__.
@@ -30,7 +30,7 @@ In this project I:
 \
 5- Suggested recommendation for the CEO to decrease the risk of the delays.
 
-![](assets/Capture0.png)
+
 ![](assets/Capture1.PNG)
 ![](assets/Capture2.png)
 ![](assets/Capture3.png)
