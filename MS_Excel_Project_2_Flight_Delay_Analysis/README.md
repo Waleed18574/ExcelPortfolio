@@ -29,19 +29,19 @@ In this project I:
 \
 5- Suggested recommendation for the CEO to decrease the risk of the delays.
 
-![](assets/Capture0.png.PNG)
-![](assets/Capture1.png.PNG)
-![](assets/Capture2.png.PNG)
-![](assets/Capture3.png.PNG)
-![](assets/Capture4.png.PNG)
-![](assets/Capture5.png.PNG)
-![](assets/Capture6.png.PNG)
-![](assets/Capture7.png.PNG)
-![](assets/Capture8.png.PNG)
-![](assets/Capture9.png.PNG)
-![](assets/Capture10.png.PNG)
-![](assets/Capture11.png.PNG)
-![](assets/Capture12.png.PNG)
+![](assets/Capture0.png)
+![](assets/Capture1.png)
+![](assets/Capture2.png)
+![](assets/Capture3.png)
+![](assets/Capture4.png)
+![](assets/Capture5.png)
+![](assets/Capture6.png)
+![](assets/Capture7.png)
+![](assets/Capture8.png)
+![](assets/Capture9.png)
+![](assets/Capture10.png)
+![](assets/Capture11.png)
+![](assets/Capture12.png)
 
 
 
