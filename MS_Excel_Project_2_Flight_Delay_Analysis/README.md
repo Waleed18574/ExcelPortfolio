@@ -28,6 +28,7 @@ In this project I:
 4- Constructed a self-service dynamic and interactive dashboard to show the delay management metrics. The visuals of the dashboard included __line chart__, __summary cards__, __column chart__, and __bar charts__.
 \
 5- Suggested recommendation for the CEO to decrease the risk of the delays.
+
 ![](assets/Capture0.png.PNG)
 ![](assets/Capture1.png.PNG)
 ![](assets/Capture2.png.PNG)
