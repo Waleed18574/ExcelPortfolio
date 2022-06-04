@@ -3,7 +3,7 @@
 \
 ![](Images/dashboard2.PNG)
 ## Introduction
-The objective of this project was to build a self-service dynamic and interactive dashboard that provides a break down of the revenue for a car sales company. I started this project an Excel table that included the names and regions of the managers (sales-persons) and 2 text (tsv) files that included the sales records for automobiles companies btw. the year 2015 and 2016 and then add the records for 2017. 
+The objective of this project was to build a self-service dynamic and interactive dashboard that provides a break down of the revenue for a car sales company. I started this project an Excel table that included the names and regions of the managers (sales-persons) and 2 text (tsv) files that included the sales records for automobiles companies btw. the year 2015 and 2016 and then add the records for 2017.
 
 
 ## Tasks Summary
@@ -13,7 +13,7 @@ In this project, I:
 
 2- Loaded the new table into the #data_model from the power query.
 
-3- Loade the Excel tables named (managers) into the data model and joined with the (SalesTextFiles).
+3- Loaded the Excel tables named (managers) into the data model and joined with the (SalesTextFiles).
 
 
 4- Generated pivot tables from the data model that summarized the business metrics such as Regional Units, Regional Revenue, Product Revenue and Monthly Revenue  with different slicers for filtering.
