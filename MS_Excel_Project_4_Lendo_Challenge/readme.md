@@ -7,25 +7,25 @@ For this project, I was provided with Excel file containing containing multiple 
 The question of this project stated that only 4 instructions were mandatory, while the rest were optional. I solved/excuted ALL of them. To achieve that,
 I used a combination of functions and techneques such as such as sumifs, countifs, vlookups, , index, match, data validation, conditional formatting, grouping and pivot-tables. 
 
-Capture0.PNG
-Capture1.PNG
-Capture2.PNG
-Capture3.PNG
-Capture4.PNG
-Capture5.PNG
-Capture6.PNG
-Capture7.PNG
-Capture8.PNG
-Capture9.PNG
-Capture10.PNG
-Capture11.PNG
-Capture12.PNG
-Capture13.PNG
-Capture14.PNG
-Capture15.PNG
-Capture16.PNG
-Capture17.PNG
-Capture18.PNG
-Capture19.PNG
+![](assets/Capture0.PNG)
+![](assets/Capture1.PNG)
+![](assets/Capture2.PNG)
+![](assets/Capture3.PNG)
+![](assets/Capture4.PNG)
+![](assets/Capture5.PNG)
+![](assets/Capture6.PNG)
+![](assets/Capture7.PNG)
+![](assets/Capture8.PNG)
+![](assets/Capture9.PNG)
+![](assets/Capture10.PNG)
+![](assets/Capture11.PNG)
+![](assets/Capture12.PNG)
+![](assets/Capture13.PNG)
+![](assets/Capture14.PNG)
+![](assets/Capture15.PNG))
+![](assets/Capture16.PNG)
+![](assets/Capture17.PNG)
+![](assets/Capture18.PNG)
+![](assets/Capture19.PNG)
 
 
