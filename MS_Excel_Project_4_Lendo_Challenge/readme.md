@@ -7,5 +7,25 @@ For this project, I was provided with Excel file containing containing multiple 
 The question of this project stated that only 4 instructions were mandatory, while the rest were optional. I solved/excuted ALL of them. To achieve that,
 I used a combination of functions and techneques such as such as sumifs, countifs, vlookups, , index, match, data validation, conditional formatting, grouping and pivot-tables. 
 
-.
+Capture0.PNG
+Capture1.PNG
+Capture2.PNG
+Capture3.PNG
+Capture4.PNG
+Capture5.PNG
+Capture6.PNG
+Capture7.PNG
+Capture8.PNG
+Capture9.PNG
+Capture10.PNG
+Capture11.PNG
+Capture12.PNG
+Capture13.PNG
+Capture14.PNG
+Capture15.PNG
+Capture16.PNG
+Capture17.PNG
+Capture18.PNG
+Capture19.PNG
+
 
